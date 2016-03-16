@@ -1,13 +1,13 @@
 # Prática: Programação funcional em Haskell
 
-## Preparação
+## 1. Preparação
 
 Para este exercício você vai usar o ambiente GHC, que inclui um compilador e um interpretador para Haskell. 
 Ele está disponível para Windows, Linux e MacOS em http://www.haskell.org/platform/. 
 
 Se você instalar a plataforma Haskell no **Windows**, abra o WinGhci, que é uma interface gráfica para o interpretador Haskell.
 
-Se você instalar a plataforma Haskell no **Linux**, use o ghci, que é o interpretador Haskell:
+Se você instalar a plataforma Haskell no **Linux**, use o GHCi, que é o interpretador Haskell:
 ```
 user@host:~$ ghci
 GHCi, version 7.8.4: http://www.haskell.org/ghc/  :? for help
@@ -17,9 +17,9 @@ Loading package base ... linking ... done.
 Prelude> 
 ```
 
-## Primeiros passos
+## 2. Primeiros passos
 
-### Interação básica
+### 2.1. Interação básica
 
 - Usando o interpretador no modo interativo, basta escrever chamadas de funções na linha de comando. 
 O interpretador vai executar as funções e mostrar o resultado. As funções já precisam estar definidas.
@@ -31,43 +31,86 @@ Depois, este arquivo precisa ser **carregado** no interpretador:
 
 - Para sair do interpretador: `Prelude> :q` ou `Ctrl-D`.
 
-### Execução no interpretador
+### 2.2. Execução no interpretador
 
 1. Copie as funções abaixo para um arquivo de programa Haskell (.hs):
-```
--- Soma os quadrados de 2 numeros (isto eh um comentario!)
-doubleUs :: Int -> Int -> Int   
-doubleUs x y = x^2 + y^2
+
+   ```haskell
+   -- Eleva um numero ao quadrado (isto eh um comentario!)
+   doubleMe :: Int -> Int
+   doubleMe x = x^2
+     
+   -- Verifica se um numero eh par (usa if/then/else para expressar funcao condicional)
+   -- mod: retorna resto da divisao inteira
+   isEven :: Int -> Bool
+   isEven n = if mod n 2 == 0 then True else False
   
--- Verifica se um numero eh par (usa if/then/else para expressar funcao condicional)
--- mod: retorna resto da divisao inteira
-isEven :: Int -> Bool
-isEven n = if mod n 2 == 0 then True else False
+   -- Gera um numero a partir de um caracter (usa outra estrutura condicional em Haskell)
+   encodeMe :: Char -> Int
+   encodeMe c 
+     | c == 'S'  = 0
+     | c == 'N'  = 1
+     | otherwise = 2
   
--- Gera um numero a partir de um caracter (usa outra estrutura condicional em Haskell)
-encodeMe :: Char -> Int
-encodeMe c 
-  | c == 'S'  = 0
-  | c == 'N'  = 1
-  | otherwise = 2
-  
--- Calcula o quadrado do primeiro elemento da lista
--- Note que '[Int]' designa uma lista de elementos do tipo Int 
-doubleFirst :: [Int] -> Int
-doubleFirst lis = (head lis)^2
-```
+   -- Calcula o quadrado do primeiro elemento da lista
+   -- Note que '[Int]' designa uma lista de elementos do tipo Int 
+   doubleFirst :: [Int] -> Int
+   doubleFirst lis = (head lis)^2
+   ```
+
 2. Abra o interpretador Haskell e teste as funções em cada um dos casos abaixo, observando alguns erros que podem ocorrer:
-```
-doubleUs (2+1) 6
-doubleUs 'A' 1
-isEven 8
-isEven 9
-isEven 8.1
-encodeMe 'S'
-encodeMe "S"
-doubleFirst [-3,4,5]
-doubleFirst []
-```
 
-## Programação
+   ```haskell
+   doubleMe 2 + 1
+   doubleMe (2+1)
+   doubleMe 'A'
+   isEven 8
+   isEven 9
+   isEven 8.1
+   encodeMe 'S'
+   encodeMe "S"
+   doubleFirst [-3,4,5]
+   doubleFirst []
+   ```
 
+## 3. Programação (para entregar: T2)
+
+Para fazer os exercícios abaixo, consulte os [slides de introdução a Haskell](slides/slides-haskell-intro-2016a.pdf). Em especial, estude **funções de alta ordem (map, filter, etc.)** e **funções anônimas**, que estão no final dos slides.
+
+1. Crie uma função `somaQuad :: Int -> Int -> Int` que calcule a soma dos quadrados de dois números x e y.
+
+2. Crie uma função `hasEqHeads :: [Int] -> [Int] -> Bool` que verifique se 2 listas possuem o mesmo primeiro elemento. Use o operador lógico '==' para verificar igualdade.
+
+3. Escreva uma função que receba uma lista de nomes e adicione a string "Sr. " no início de cada nome. 
+
+4. Crie uma função que receba uma string e retorne o número de espaços nela contidos. Dica: aplique 2 funções consecutivamente.
+
+5. Escreva uma função que, dada uma lista de números, calcule 3*n^2 + 2/n + 1 para cada número n da lista. Dica: defina uma função anônima.
+
+6. Escreva uma função que, dada uma lista de números, selecione somente os que forem negativos.
+
+7. Escreva uma função que receba uma lista de números e retorne somente os que estiverem entre 1 e 100, inclusive. Dica 1: use uma função anônima. Dica 2: use o operador '&&' para expressar um 'E' lógico.
+
+8. Escreva uma função que, dada uma lista de idades de pessoas no ano atual, retorne uma lista somente com as idades de quem
+nasceu depois de 1970. Para testar a condição, sua função deverá subtrair a idade do ano atual.
+
+9. Escreva uma função que receba uma lista de números e retorne somente aqueles que forem pares.
+
+10. Crie uma função `charFound :: Char -> String -> Bool` que verifique se o caracter (primeiro argumento) está contido na string (segundo argumento). Exemplos de uso da função: 
+
+   ```
+   > charFound 'a' ""  
+   False  
+   > charFound 'a' "uau"  
+   True  
+   ```
+
+11. A função `takeWhile :: (a -> Bool) -> [a] -> [a]` é uma função de alta ordem. Ela recebe uma função condicional e uma lista, retornando o "menor prefixo" (isto é, porção inicial) da lista que satisfaça a condição dada. Teste os exemplos abaixo no GHCi e depois crie um novo exemplo:
+
+   ```
+   > takeWhile (< 5) [1,2,3,4,5]
+   > takeWhile (/=' ') "Fulana de Tal"
+   ```
+   Obs.: Este exercício deve ser entregue em forma de comentário.
+  
+12. Crie uma função que receba uma lista de nomes e retorne outra lista com somente aqueles nomes que terminarem com a letra 'a'.
