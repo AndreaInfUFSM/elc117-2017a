@@ -9,7 +9,9 @@ Sala: 368, CT - Práticas: 334, CT
  - [Introdução à disciplina](slides/slides-introducao-paradigmas-2016a.pdf)
  - Programação funcional
     - [Introdução à programação funcional](slides/slides-programacao-funcional-2016a.pdf)
+    - [Introdução à linguagem Haskell](slides/slides-haskell-intro-2016a.pdf)
  
 
 ## Trabalhos
  - [Lista de Ganhadoras em C](trabalhos/t1) (entrega até quarta, 09/03/2016, 8h)
+ - [Programação funcional em Haskell](trabalhos/t2) (entrega até domingo, 20/03/2016, 23:59)
