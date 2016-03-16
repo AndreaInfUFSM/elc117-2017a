@@ -75,7 +75,7 @@ Depois, este arquivo precisa ser **carregado** no interpretador:
 
 ## 3. Programação (para entregar: T2)
 
-Para fazer os exercícios abaixo, consulte os [slides de introdução a Haskell](slides/slides-haskell-intro-2016a.pdf). Em especial, estude **funções de alta ordem (map, filter, etc.)** e **funções anônimas**, que estão no final dos slides.
+Para fazer os exercícios abaixo, consulte os [slides de introdução a Haskell](../../slides/slides-haskell-intro-2016a.pdf). Em especial, estude **funções de alta ordem (map, filter, etc.)** e **funções anônimas**, que estão no final dos slides.
 
 1. Crie uma função `somaQuad :: Int -> Int -> Int` que calcule a soma dos quadrados de dois números x e y.
 
