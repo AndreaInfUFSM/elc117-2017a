@@ -20,3 +20,4 @@ Sala: 368, CT - Práticas: 334, CT
  - [Programação funcional em Haskell](trabalhos/t2) (entrega até domingo, 20/03/2016, 23:59)
  - [Mais exercícios de programação funcional em Haskell](trabalhos/t3) (entrega até terça, 29/03/2016, 23:59)
  - [Gerando SVG em Haskell](trabalhos/t4) (entrega até domingo, 03/04/2016, 23:59)
+ - [List comprehension e recursão em Haskell](trabalhos/t5) (entrega até domingo, 10/04/2016, 23:59)
