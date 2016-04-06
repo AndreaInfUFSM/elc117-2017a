@@ -4,7 +4,7 @@
 
 ## Orientações ([para entregar: T5](../../trabalhos/t5))
 
-Para fazer os exercícios abaixo, consulte principalmente os slides sobre [Geração de listas em Haskell](../../slides/slides-haskell-listas-geracao-2016a.pdf). 
+Para fazer os exercícios abaixo, consulte principalmente os slides sobre [Geração de listas em Haskell](../../slides/slides-haskell-listas-geracao-2016a.pdf) e [Uso de let e where](../../slides/slides-haskell-let-where-2016a.pdf). 
 
 Os exercícios deverão ser entregues como [T5]((../../trabalhos/t5)).
 
@@ -72,3 +72,5 @@ Os exercícios deverão ser entregues como [T5]((../../trabalhos/t5)).
 10. Refaça o exercício anterior usando *list comprehension*.
 
 11. Refaça o exercício anterior usando uma função de alta ordem.
+ 
+12. O código em [validaCPF.hs](../../slides/validaCPF.hs) ilustra a validação dos dígitos verificadores de um CPF. Este código usar `let` para definir subexpressões, isto é, expressões intermediárias que irão compor o resultado da função. Observe que este código tem trechos um tanto repetitivos para calcular o primeiro e o segundo dígitos. Você deverá reescrever este código, criando uma função auxiliar que será chamada 2 vezes dentro de isCpfOk. Nessa função auxiliar, você deverá usar `where` para definir subexpressões. 
