@@ -15,6 +15,9 @@ Sala: 368, CT - Práticas: 334, CT
     - [Uso de let e where](slides/slides-haskell-let-where-2016a.pdf)
     - Exemplo de código: [validaCPF.hs](slides/validaCPF.hs) 
 
+## Testes
+ - Haskell: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
+ 
 ## Trabalhos
  - [Lista de Ganhadoras em C](trabalhos/t1) (entrega até quarta, 09/03/2016, 8h)
  - [Programação funcional em Haskell](trabalhos/t2) (entrega até domingo, 20/03/2016, 23:59)
