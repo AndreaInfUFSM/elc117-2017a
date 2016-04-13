@@ -18,7 +18,7 @@ Sala: 368, CT - Práticas: 334, CT
     - [Programação lógica em Prolog](slides/slides-programacao-logica-resumo-2016a.pdf) 
 
 ## Práticas
- - Haskell: [(1)](praticas/haskell1) [(2)](praticas/haskell2) [(2)](praticas/haskell2) [(2)](praticas/haskell2) 
+ - Haskell: [(1)](praticas/haskell1) [(2)](praticas/haskell2) [(3)](praticas/haskell2) [(4)](praticas/haskell2) 
  - Testes (quizzes) de Haskell com correção automática: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
  - Prolog: [(1)](praticas/prolog1)
  
