@@ -9,7 +9,7 @@ Para fazer os exercícios abaixo, consulte os slides sobre [Programação Lógic
 
 ## Exercícios
 
-Nos exercícios abaixo, considere a seguinte base de fatos e regras sobre pessoas e localizações geográficas:
+Nos exercícios abaixo, considere a seguinte base de fatos e regras sobre pessoas e localizações geográficas ([pratica1.pl](pratica1.pl)):
 
    ```
    localizado_em(santa_maria, rs). 
