@@ -11,31 +11,31 @@ Para fazer os exercícios abaixo, consulte os slides sobre [Programação Lógic
 
 Nos exercícios abaixo, considere a seguinte base de fatos e regras sobre pessoas e localizações geográficas:
 
-```
-localizado_em(santa_maria, rs). 
-localizado_em(salvador, bahia). 
-localizado_em(rs, brasil). 
-localizado_em(bahia, brasil). 
-localizado_em(paris, franca). 
-localizado_em(franca, europa). 
+   ```
+   localizado_em(santa_maria, rs). 
+   localizado_em(salvador, bahia). 
+   localizado_em(rs, brasil). 
+   localizado_em(bahia, brasil). 
+   localizado_em(paris, franca). 
+   localizado_em(franca, europa). 
+   
+   nasceu_em(andre, santa_maria). 
+   nasceu_em(joao, salvador). 
+   nasceu_em(X, Y) :- localizado_em(Z, Y), nasceu_em(X, Z). 
+   
+   mora_em(andre, paris). 
+   mora_em(joao, salvador). 
+   mora_em(X, Y) :- localizado_em(Z, Y), mora_em(X, Z). 
 
-nasceu_em(andre, santa_maria). 
-nasceu_em(joao, salvador). 
-nasceu_em(X, Y) :- localizado_em(Z, Y), nasceu_em(X, Z). 
+   idade(andre, 25). 
+   idade(joao, 32). 
 
-mora_em(andre, paris). 
-mora_em(joao, salvador). 
-mora_em(X, Y) :- localizado_em(Z, Y), mora_em(X, Z). 
+   gaucho(X) :- nasceu_em(X, rs). 
+   brasileiro(X) :- nasceu_em(X, brasil). 
+   europeu(X) :- nasceu_em(X, europa).
+   ```
 
-idade(andre, 25). 
-idade(joao, 32). 
-
-gaucho(X) :- nasceu_em(X, rs). 
-brasileiro(X) :- nasceu_em(X, brasil). 
-europeu(X) :- nasceu_em(X, europa).
-```
-
-1. 1. Qual será o resultado das seguintes consultas?
+1. Qual será o resultado das seguintes consultas?
 
    ```
    ?- europeu(andre).
