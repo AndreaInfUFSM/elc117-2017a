@@ -11,7 +11,7 @@ Para fazer os exercícios abaixo, consulte os slides sobre [Programação Lógic
 
 Nos exercícios abaixo, considere a seguinte base de fatos e regras sobre pessoas e localizações geográficas ([pratica1.pl](pratica1.pl)):
 
-   ```
+   ```prolog
    localizado_em(santa_maria, rs). 
    localizado_em(salvador, bahia). 
    localizado_em(rs, brasil). 
