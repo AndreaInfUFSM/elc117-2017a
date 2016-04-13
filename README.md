@@ -7,17 +7,20 @@ Sala: 368, CT - Práticas: 334, CT
 
 ## Slides
  - [Introdução à disciplina](slides/slides-introducao-paradigmas-2016a.pdf)
- - Programação funcional
+ - Paradigma funcional / Haskell
     - [Introdução à programação funcional](slides/slides-programacao-funcional-2016a.pdf)
     - [Introdução à linguagem Haskell](slides/slides-haskell-intro-2016a.pdf)
     - [Condicionais, recursividade, listas e tuplas](slides/slides-haskell-cond-repet-2016a.pdf)
     - [Geração de listas](slides/slides-haskell-listas-geracao-2016a.pdf)
     - [Uso de let e where](slides/slides-haskell-let-where-2016a.pdf)
     - Exemplo de código: [validaCPF.hs](slides/validaCPF.hs) 
+ - Paradigma lógico / Prolog
+    - [Programação lógica em Prolog](slides/slides-programacao-logica-resumo-2016a.pdf) 
 
-## Quizzes
- Testes rápidos com correção automática:
- - Haskell: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
+## Práticas
+ - Haskell: [(1)](praticas/haskell1) [(2)](praticas/haskell2) [(2)](praticas/haskell2) [(2)](praticas/haskell2) 
+ - Testes (quizzes) de Haskell com correção automática: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
+ - Prolog: [(1)](praticas/prolog1)
  
 ## Trabalhos
  - [Lista de Ganhadoras em C](trabalhos/t1) (entrega até quarta, 09/03/2016, 8h)
