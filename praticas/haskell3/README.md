@@ -6,7 +6,7 @@
 
 Nesta prática, você vai completar um programa em Haskell que gera uma figura em formato SVG (Scalable Vector Graphics). 
 
-Os exercícios deverão ser entregues como [T4]((../../trabalhos/t4)).
+Os exercícios deverão ser entregues como [T4](../../trabalhos/t4).
 
 
 ## Preparação
