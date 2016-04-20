@@ -6,7 +6,7 @@
 
 Para fazer os exercícios abaixo, consulte principalmente os slides sobre [Geração de listas em Haskell](../../slides/slides-haskell-listas-geracao-2016a.pdf) e [Uso de let e where](../../slides/slides-haskell-let-where-2016a.pdf). 
 
-Os exercícios deverão ser entregues como [T5]((../../trabalhos/t5)).
+Os exercícios deverão ser entregues como [T5](../../trabalhos/t5).
 
 
 ## Exercícios
