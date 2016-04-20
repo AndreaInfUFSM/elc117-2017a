@@ -30,7 +30,7 @@ Qual será o resultado das seguintes consultas?
    ?- repete(2,b,L).
    ?- repete(-2,b,L).
    ?- repete(2,a,[a,b,c]).
-   ?- repete(3,a,[a|T).
+   ?- repete(3,a,[a|T]).
    ```
 
 ## Exercícios
