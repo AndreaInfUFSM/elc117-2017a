@@ -20,7 +20,7 @@ Sala: 368, CT - Práticas: 334, CT
 ## Práticas
  - Haskell: [(1)](praticas/haskell1) [(2)](praticas/haskell2) [(3)](praticas/haskell2) [(4)](praticas/haskell2) 
  - Testes (quizzes) de Haskell com correção automática: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
- - Prolog: [(1)](praticas/prolog1)
+ - Prolog: [(1)](praticas/prolog1) [(2)](praticas/prolog2)
  
 ## Trabalhos
  - [Lista de Ganhadoras em C](trabalhos/t1) (entrega até quarta, 09/03/2016, 8h)
@@ -28,3 +28,4 @@ Sala: 368, CT - Práticas: 334, CT
  - [Mais exercícios de programação funcional em Haskell](trabalhos/t3) (entrega até terça, 29/03/2016, 23:59)
  - [Gerando SVG em Haskell](trabalhos/t4) (entrega até domingo, 03/04/2016, 23:59)
  - [List comprehension e recursão em Haskell](trabalhos/t5) (entrega até domingo, 10/04/2016, 23:59)
+ - [Listas e recursão em prolog](trabalhos/t6) (entrega até terça, 26/04/2016, 23:59)
