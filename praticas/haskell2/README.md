@@ -6,7 +6,7 @@
 
 Para fazer os exercícios abaixo, consulte principalmente os slides [Condicionais, recursividade, listas e tuplas em Haskell](../../slides/slides-haskell-cond-repet-2016a.pdf). 
 
-Os exercícios deverão ser entregues como [T3]((../../trabalhos/t3)).
+Os exercícios deverão ser entregues como [T3](../../trabalhos/t3).
 
 
 ## Exercícios
