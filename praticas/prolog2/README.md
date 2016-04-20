@@ -6,7 +6,7 @@
 
 Para fazer os exercícios abaixo, consulte os slides sobre [Programação Lógica](../../slides/slides-programacao-logica-resumo-2016a.pdf). 
 
-Os exercícios deverão ser entregues como [T6]((../../trabalhos/t6)).
+Os exercícios deverão ser entregues como [T6](../../trabalhos/t6).
 
 
 ## Aquecimento
