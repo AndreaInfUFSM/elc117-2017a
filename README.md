@@ -28,4 +28,5 @@ Sala: 368, CT - Práticas: 334, CT
  - [Mais exercícios de programação funcional em Haskell](trabalhos/t3) (entrega até terça, 29/03/2016, 23:59)
  - [Gerando SVG em Haskell](trabalhos/t4) (entrega até domingo, 03/04/2016, 23:59)
  - [List comprehension e recursão em Haskell](trabalhos/t5) (entrega até domingo, 10/04/2016, 23:59)
- - [Listas e recursão em prolog](trabalhos/t6) (entrega até terça, 26/04/2016, 23:59)
+ - [Listas e recursão em Prolog](trabalhos/t6) (entrega até terça, 26/04/2016, 23:59)
+ - [Resolvendo problemas da OBI em Prolog](trabalhos/t7) (entrega até quarta, 04/05/2016, 23:59)
