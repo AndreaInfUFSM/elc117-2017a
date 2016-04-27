@@ -2,11 +2,11 @@
 
 ## Deadline
 
-Terça, 26 de abril, 23:59.
+Quarta, 4 de maio, 23:59.
 
 ## Sobre a OBI
 
-A **Olimpíada Brasileira de Informática** é uma competição voltada para alunos do ensino fundamental e médio, que ocorre anualmente em várias cidades no Brasil. Numa das modalidades da competição, denominada "Iniciação", os alunos resolvem problemas de lógica e problemas de computação, sem o uso de computador. Todos os problemas das competições passadas estão disponíveis no [site oficial da OBI](http://olimpiada.ic.unicamp.br/).
+A **Olimpíada Brasileira de Informática** é uma competição voltada para alunos do ensino fundamental e médio, que ocorre anualmente em várias cidades no Brasil. Numa das modalidades da competição, denominada "Iniciação", os alunos resolvem problemas de lógica e problemas de computação, sem o uso de computador. Todos os problemas das competições passadas estão disponíveis no [site oficial da OBI](http://olimpiada.ic.unicamp.br/passadas).
  
  
 ## Trabalho
