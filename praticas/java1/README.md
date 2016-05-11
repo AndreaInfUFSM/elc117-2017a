@@ -51,14 +51,16 @@ Para fazer os exercícios, você vai precisar do ambiente de desenvolvimento Jav
 3. Acrescente um atributo `myName` à classe `SpaceShip`, do tipo `String`. No construtor da classe `SpaceShip`, adicione uma linha de código para definir um nome para a espaçonave (p.ex.: "Enterprise"). Modifique o método `print`, de modo a imprimir a posição (x,y), a cor e o nome da espaçonave. Compile e execute o programa novamente.
 
 4. Explique o que acontecerá se for incluída a seguinte linha no final do método `main` da classe `SpaceShipTest`:
-``` 
-System.out.println(ship.myX);
-```
+
+   ``` 
+   System.out.println(ship.myX);
+   ```
 
 5. Explique o que acontecerá se for incluída a sequinte linha no final do método `main` da classe `SpaceShipTest`:
-```
-sr.print();
-```
+
+   ```
+   sr.print();
+   ```
 
 6. Modifique a função `main` de modo a criar uma nova espaçonave com cor vermelha (0xffff0000), com posição e nome à sua escolha. Compile e execute o programa novamente.
 
@@ -68,9 +70,9 @@ sr.print();
 ## Classe SpaceShipGUI
 
 1. Execute agora um outro programa que **reutiliza** a classe SpaceShip. Esse programa mostra uma animação na tela.
-```
-java -cp . SpaceShipGUI
-```
+   ```
+   java -cp . SpaceShipGUI
+   ```
 
 2. Altere o método move() da classe SpaceShip para que a espaçonave se mova de forma diferente na animação. Por exemplo, faça a espaçonave mudar a direção quando atingir as posições myXmax e/ou myYmax, que representam os limites da janela.
 
@@ -82,12 +84,13 @@ java -cp . SpaceShipGUI
  - um método que desloque as coordenadas de um ponto (x,y) para as coordenadas (x+dx,x+dy), sendo dx e dy argumentos do método
 
  - um método que calcule a distância entre 2 pontos (x1,y1) e (x2,y2) segundo o teorema de Pitágoras: 
-```
-dx = x2 - x1
-dy = y2 - y1
-distancia = sqrt(dx*dx + dy*dy)
-```
-**Dica**: para o cálculo da raiz quadrada, consulte os exemplos da seção [Beyond Basic Arithmetic](http://download.oracle.com/javase/tutorial/java/data/beyondmath.html), na página de [tutoriais Java](http://download.oracle.com/javase/tutorial/) da Oracle. 
+   ```
+   dx = x2 - x1
+   dy = y2 - y1
+   distancia = sqrt(dx*dx + dy*dy)
+   ```
+
+   **Dica**: para o cálculo da raiz quadrada, consulte os exemplos da seção [Beyond Basic Arithmetic](http://download.oracle.com/javase/tutorial/java/data/beyondmath.html), na página de [tutoriais Java](http://download.oracle.com/javase/tutorial/) da Oracle. 
 
 2. Crie um programa Java que utilize a classe `Ponto` do exercício anterior.
 
