@@ -11,18 +11,17 @@ Para fazer os exercícios, você vai precisar do ambiente de desenvolvimento Jav
 
 ## Aquecimento
 
-1.Instale o ambiente de desenvolvimento Java (JDK) disponível em: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
-2. Baixe o programa OlaMundo.java.
+1. Baixe o programa OlaMundo.java.
 
-3. Num terminal de comandos, compile o programa:
+2. Num terminal de comandos, compile o programa:
 
    ```
    javac OlaMundo.java
    ```
    O comando acima produz um arquivo .class para cada classe contida em OlaMundo.java. Um arquivo .class contém um código (bytecode) interpretável por uma máquina virtual Java.
 
-4. Execute o programa, informando um nome de classe que contém um método main:
+3. Execute o programa, informando um nome de classe que contém um método main:
 
    ```
     java -cp . OlaMundo
