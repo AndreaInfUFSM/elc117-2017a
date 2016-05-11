@@ -26,7 +26,7 @@ Para fazer os exercícios, você vai precisar do ambiente de desenvolvimento Jav
    ```
     java -cp . OlaMundo
    ```
-   Obs.: Se algo der errado e você estiver usando Windows, veja este tutorial preparado pela ex-monitora Jessica Lasch de Moura. 
+   Obs.: Se algo der errado e você estiver usando Windows, veja esta [página da Oracle](https://docs.oracle.com/javase/tutorial/getStarted/problems/index.html) sobre problemas comuns e suas soluções. 
 
 
 
