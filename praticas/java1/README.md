@@ -56,7 +56,7 @@ Para fazer os exercícios, você vai precisar do ambiente de desenvolvimento Jav
    System.out.println(ship.myX);
    ```
 
-5. Explique o que acontecerá se for incluída a sequinte linha no final do método `main` da classe `SpaceShipTest`:
+5. Explique o que acontecerá se for incluída a seguinte linha no final do método `main` da classe `SpaceShipTest`:
 
    ```
    sr.print();
