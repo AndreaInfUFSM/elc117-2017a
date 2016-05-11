@@ -12,7 +12,7 @@ Para fazer os exercícios, você vai precisar do ambiente de desenvolvimento Jav
 ## Aquecimento
 
 
-1. Baixe o programa OlaMundo.java.
+1. Baixe o programa [OlaMundo.java](OlaMundo.java).
 
 2. Num terminal de comandos, compile o programa:
 
