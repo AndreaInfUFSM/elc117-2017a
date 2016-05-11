@@ -37,7 +37,7 @@ Para fazer os exercícios, você vai precisar do ambiente de desenvolvimento Jav
  
  
 
-1. Baixe o arquivo [SpaceShip.zip](../src/java/SpaceShip.zip) e descompacte-o numa pasta conhecida. Este arquivo contém classes em Java para representação de uma espaçonave que se move dentro de uma área limitada. Compile e execute o programa:
+1. Baixe o arquivo [SpaceShip.zip](SpaceShip.zip) e descompacte-o numa pasta conhecida. Este arquivo contém classes em Java para representação de uma espaçonave que se move dentro de uma área limitada. Compile e execute o programa:
    
    ```
    javac *.java
