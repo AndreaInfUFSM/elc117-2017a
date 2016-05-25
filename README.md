@@ -19,12 +19,16 @@ Sala: 368, CT - Práticas: 334, CT
  - Paradigma orientado a objetos / Java
     - [Introdução à programação orientada a objetos](slides/slides-introducao-oo-2016a.pdf)
     - [Introdução à linguagem Java](slides/slides-introducao-java-2016a.pdf)
+    - [Métodos e atributos de classe] (slides/slides-java-static-2016a.pdf)
+    - [Herança e polimorfismo] (slides/slides-java-heranca-polimorfismo-2016a.pdf)
+    - [Arrays e pacotes](slides/slides-java-arrays-2016a.pdf) (não vistos em aula)
+
 
 ## Práticas
  - Haskell: [(1)](praticas/haskell1) [(2)](praticas/haskell2) [(3)](praticas/haskell3) [(4)](praticas/haskell4) 
  - Testes (quizzes) de Haskell com correção automática: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
  - Prolog: [(1)](praticas/prolog1) [(2)](praticas/prolog2)
- - Java: [(1)](praticas/java1)
+ - Java: [(1)](praticas/java1) [(2)](praticas/java2)
  
 ## Trabalhos
  - [Lista de Ganhadoras em C](trabalhos/t1) (entrega até quarta, 09/03/2016, 8h)
