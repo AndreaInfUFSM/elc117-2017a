@@ -37,5 +37,8 @@
 11. Se tivermos uma referência p para um objeto ProfessorTemporario, podemos chamar p.comecaFerias()?
 
 12. Altere o programa Heranca.java para testar a nova classe ProfessorTemporario, chamando todos os seus métodos. 
+
+13. Crie um método [toString](https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html#toString--) nas classes Estudante, Professor e ProfessorTemporario. Em cada classe, este método deverá retornar uma String com os valores de todos os atributos de um objeto da classe. Teste sua implementação sem chamar explicitamente o método toString (veja nos slides como fazer isso).
+
     
 
