@@ -38,3 +38,4 @@ Sala: 368, CT - Práticas: 334, CT
  - [List comprehension e recursão em Haskell](trabalhos/t5) (entrega até domingo, 10/04/2016, 23:59)
  - [Listas e recursão em Prolog](trabalhos/t6) (entrega até terça, 26/04/2016, 23:59)
  - [Resolvendo problemas da OBI em Prolog](trabalhos/t7) (entrega até quarta, 04/05/2016, 23:59)
+ - [Ache a maior bolacha em Java](trabalhos/t8) (entrega até quarta, 01/06/2016, 23:59)
