@@ -6,7 +6,7 @@
 
 1. Para estes exercícios, recomenda-se instalar o IDE NetBeans para Java, disponível em: http://netbeans.org/downloads/
 
-2. Estes exercícios tratam de **interfaces gráficas** em Java, que exigem conhecimento de vários recursos de orientação a objetos (herança, polimorfismo, interfaces, etc.). Veja mais sobre isso nos [slides](../..) da disciplina e nos [tutoriais da Oracle](http://docs.oracle.com/javase/tutorial/uiswing/examples/components/index.html) para construção de interfaces gráficas.
+2. Estes exercícios tratam de **interfaces gráficas** em Java, que exigem conhecimento de vários recursos de orientação a objetos (herança, polimorfismo, interfaces, etc.). Veja mais sobre isso nos [slides](../../README.md) da disciplina e nos [tutoriais da Oracle](http://docs.oracle.com/javase/tutorial/uiswing/examples/components/index.html) para construção de interfaces gráficas.
 
 
 ## Parte 1
