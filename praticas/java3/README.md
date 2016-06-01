@@ -29,7 +29,8 @@
  
  4. Observe o comportamento do programa. Para evitar a sobreposição entre componentes atualize o método `criaComponentes` de `SemIDE`, adicionando um [GridLayout](https://docs.oracle.com/javase/tutorial/uiswing/layout/grid.html) como gerenciador de layout.
  
- 5. Adicione um `ActionListener` ao segundo botão e faça-o decrementar o contador `contagemCliques`. Lembre-se de atualizar a view!
+ 5. Adicione um `ActionListener` ao segundo botão e faça-o decrementar o contador `contagemCliques`. 
+ 
 
 ## Parte 2
 
