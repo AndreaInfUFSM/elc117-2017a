@@ -22,14 +22,16 @@ Sala: 368, CT - Práticas: 334, CT
     - [Métodos e atributos de classe] (slides/slides-java-static-2016a.pdf)
     - [Herança e polimorfismo] (slides/slides-java-heranca-polimorfismo-2016a.pdf)
     - [Arrays e pacotes](slides/slides-java-arrays-2016a.pdf) (não vistos em aula)
+    - [Classes abstratas, interfaces, tipos genéricos, coleções](slides/slides-java-abstract-2016a.pdf)
 
 
 ## Práticas
  - Haskell: [(1)](praticas/haskell1) [(2)](praticas/haskell2) [(3)](praticas/haskell3) [(4)](praticas/haskell4) 
  - Testes (quizzes) de Haskell com correção automática: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
  - Prolog: [(1)](praticas/prolog1) [(2)](praticas/prolog2)
- - Java: [(1)](praticas/java1) [(2)](praticas/java2)
+ - Java: [(1)](praticas/java1) [(2)](praticas/java2) [(3)](praticas/java3)
  
+
 ## Trabalhos
  - [Lista de Ganhadoras em C](trabalhos/t1) (entrega até quarta, 09/03/2016, 8h)
  - [Programação funcional em Haskell](trabalhos/t2) (entrega até domingo, 20/03/2016, 23:59)
