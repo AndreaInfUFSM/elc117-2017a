@@ -23,7 +23,7 @@
        1. Crie um novo projeto Java vazio;
        2. Copie o arquivo [GUISimples.java](GUISimples.java) para dentro da pasta `src` do projeto.
 
- 2. Modifique o programa para que a contagem do contador seja apresentada juntamente ao título do `JFrame`.
+ 2. Modifique o programa para que o contador seja apresentado no título do `JFrame`. Para isso, encontre e chame o método apropriado, definido na classe [JFrame](https://docs.oracle.com/javase/8/docs/api/index.html?javax/swing/JFrame.html).
  
  3. Modifique o programa, adicionando um segundo botão na janela. 
  
