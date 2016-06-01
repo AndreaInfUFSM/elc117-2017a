@@ -10,7 +10,7 @@
 
 
 ## Parte 1
- 1. O programa [GUISimples.java](GUISimples.java) ilustra o uso do pacote [javax.swing](http://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html) para criação de uma interface gráfica bastante simples. Compile e execute este programa, busque entender seu funcionamento.
+ 1. O programa [GUISimples.java](GUISimples.java) ilustra o uso do pacote [javax.swing](http://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html) para criação de uma interface gráfica bastante simples. Compile e execute este programa. Busque entender seu funcionamento.
     - Compilando e executando via terminal
 
       ```Shell
@@ -18,7 +18,7 @@
       $ java -cp . GUISimples
       ```
 
-    - Com o NetBens:
+    - Com o NetBeans:
        
        1. Crie um novo projeto Java vazio;
        2. Copie o arquivo [GUISimples.java](GUISimples.java) para dentro da pasta `src` do projeto.
