@@ -24,8 +24,11 @@
        2. Copie o arquivo [GUISimples.java](GUISimples.java) para dentro da pasta `src` do projeto.
 
  2. Modifique o programa para que a contagem do contador seja apresentada juntamente ao título do `JFrame`.
+ 
  3. Modifique o programa, adicionando um segundo botão na janela. 
+ 
  4. Observe o comportamento do programa. Para evitar a sobreposição entre componentes atualize o método `criaComponentes` de `SemIDE`, adicionando um `GridLayout` como gerenciador de layout.
+ 
  5. Adicione um `ActionListener` ao segundo botão e faça-o decrementar o contador `contagemCliques`. Lembre-se de atualizar a view!
 
 ## Parte 2
