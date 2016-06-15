@@ -23,13 +23,14 @@ Sala: 368, CT - Práticas: 334, CT
     - [Herança e polimorfismo] (slides/slides-java-heranca-polimorfismo-2016a.pdf)
     - [Arrays e pacotes](slides/slides-java-arrays-2016a.pdf) (não vistos em aula)
     - [Classes abstratas, interfaces, tipos genéricos, coleções](slides/slides-java-abstract-2016a.pdf)
+    - [Interfaces gráficas e MVC](slides/slides-java-mvc-2016a.pdf)
 
 
 ## Práticas
  - Haskell: [(1)](praticas/haskell1) [(2)](praticas/haskell2) [(3)](praticas/haskell3) [(4)](praticas/haskell4) 
  - Testes (quizzes) de Haskell com correção automática: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
  - Prolog: [(1)](praticas/prolog1) [(2)](praticas/prolog2)
- - Java: [(1)](praticas/java1) [(2)](praticas/java2) [(3)](praticas/java3)
+ - Java: [(1)](praticas/java1) [(2)](praticas/java2) [(3)](praticas/java3) [(4)](praticas/java4)
  
 
 ## Trabalhos
