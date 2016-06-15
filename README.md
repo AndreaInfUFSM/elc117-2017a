@@ -24,6 +24,8 @@ Sala: 368, CT - Práticas: 334, CT
     - [Arrays e pacotes](slides/slides-java-arrays-2016a.pdf) (não vistos em aula)
     - [Classes abstratas, interfaces, tipos genéricos, coleções](slides/slides-java-abstract-2016a.pdf)
     - [Interfaces gráficas e MVC](slides/slides-java-mvc-2016a.pdf)
+    - [Programação concorrente em Java](slides/slides-java-threads-2016a.pdf)
+    - [Exceções em Java](slides/slides-java-excecoes-2016a.pdf)
 
 
 ## Práticas
