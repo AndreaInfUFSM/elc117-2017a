@@ -10,8 +10,9 @@
 
 Uma agência de comunicação gerencia várias marcas de seus clientes usando redes sociais, principalmente Facebook. São feitos posts diários em páginas dos clientes, são lançados concursos para o público consumidor e o impacto disso é visualizado usando a própria plataforma de insights do Facebook. Todo esse trabalho é feito manualmente, usando as interfaces web ou mobile do Facebook. 
 
-Numa campanha concebida pela agência para vários de seus clientes, foi necessário coletar fotos (profile pictures) de um grande número de pessoas no Facebook, para criação de posts personalizados. Esse trabalho também começou a ser feito manualmente e estava levando muito tempo. A agência então resolveu contratar o serviço de um **profissional de computação**, a fim de automatizar essa tarefa repetitiva e, com isso, atender mais clientes, com mais agilidade. Você é este profissional! Sua solução foi desenvolver o **MyFBSearch**, uma aplicação para desktop em Java, capaz de obter várias fotos com poucos cliques. 
+Numa campanha concebida pela agência para vários de seus clientes, foi necessário coletar fotos (profile pictures) de um grande número de pessoas no Facebook, para criação de posts personalizados. Esse trabalho também começou a ser feito manualmente e estava levando muito tempo. A agência então resolveu contratar o serviço de um **profissional de computação**, a fim de automatizar essa tarefa repetitiva e, com isso, atender mais clientes, com mais agilidade. Você é este profissional! Sua solução foi desenvolver o **MyFBSearch**, uma aplicação para desktop em Java, capaz de obter várias fotos com poucos cliques (ver exemplo abaixo). 
 
+<img src="myfbsearch.png" width="280"> 
 
 ## Requisitos
 
