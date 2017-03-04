@@ -8,10 +8,12 @@ Sala: 368, CT - Práticas: 334, CT
 ## Sobre a disciplina
  - [Ementa](https://drive.google.com/file/d/0B2aW-kt5pdi7X2ZLbEYxNG1KZVk/view?usp=sharing): informações sobre objetivos, programa, metodologia e bibliografia.
  - [Plano de ensino](https://docs.google.com/spreadsheets/d/1-HOEpVhdNGLGK17PtGeOvwIbA7EWXGXzDLGZ1x8ojUA/edit?usp=sharing): planejamento de atividades de cada aula.
+ - [Que comecem os jogos!](https://docs.google.com/a/inf.ufsm.br/forms/d/e/1FAIpQLSf0i_aS6ldh6ARg1NaMDaUIcnMtG78UlMOuRwn3jrYnUSfQHw/viewform?usp=sf_link): formulário para responder na primeira semana.
+ 
  
 ## Avaliações
 
- - Critérios: A avaliação será baseada na pontuação acumulada indivualmente na realização de atividades, conforme [Guia de Pontuação](http://bit.ly/parapontos). 
+ - [Guia de Pontuação](http://bit.ly/parapontos): conforme este guia, a avaliação será baseada na pontuação acumulada indivualmente na realização de atividades.
  - Datas para avaliações orais:
    - Primeiro bimestre:
    - Segundo bimestre:
