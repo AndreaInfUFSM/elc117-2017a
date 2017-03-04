@@ -13,7 +13,7 @@ Sala: 368, CT - Práticas: 334, CT
  
 ## Avaliações
 
- - [Guia de Pontuação](http://bit.ly/parapontos): conforme este guia, a avaliação será baseada na pontuação acumulada indivualmente na realização de atividades.
+ - [Guia de Pontuação](http://bit.ly/parapontos): a avaliação será baseada na pontuação acumulada indivualmente na realização de atividades.
  - Datas para avaliações orais:
    - Primeiro bimestre:
    - Segundo bimestre:
