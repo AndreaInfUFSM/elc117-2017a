@@ -14,9 +14,10 @@ Sala: 368, CT - Práticas: 334, CT
 ## Avaliações
 
  - [Guia de Pontuação](http://bit.ly/parapontos): a avaliação será baseada na pontuação acumulada indivualmente na realização de atividades.
- - Datas para avaliações orais:
-   - Primeiro bimestre:
-   - Segundo bimestre:
+ - Datas para avaliações orais:  
+   - Primeiro bimestre: 17/04 e 19/04/2017  
+   - Segundo bimestre: 19/06/2017 e 21/06/2017
+ - Avaliação final (exame): 17/07/2017
    
 <!--
  - [Introdução à disciplina](slides/slides-introducao-paradigmas-2016a.pdf)
@@ -41,16 +42,19 @@ Sala: 368, CT - Práticas: 334, CT
     - [Exceções em Java](slides/slides-java-excecoes-2016a.pdf)
 -->
 
-## Práticas
 <!--
+## Práticas
+
  - Haskell: [(1)](praticas/haskell1) [(2)](praticas/haskell2) [(3)](praticas/haskell3) [(4)](praticas/haskell4) 
  - Testes (quizzes) de Haskell com correção automática: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
  - Prolog: [(1)](praticas/prolog1) [(2)](praticas/prolog2)
  - Java: [(1)](praticas/java1) [(2)](praticas/java2) [(3)](praticas/java3) [(4)](praticas/java4) [(5)](praticas/java5)
  -->
 
-## Trabalhos
 <!--
+
+## Trabalhos
+
  - [Lista de Ganhadoras em C](trabalhos/t1) (entrega até quarta, 09/03/2016, 8h)
  - [Programação funcional em Haskell](trabalhos/t2) (entrega até domingo, 20/03/2016, 23:59)
  - [Mais exercícios de programação funcional em Haskell](trabalhos/t3) (entrega até terça, 29/03/2016, 23:59)
