@@ -1,11 +1,21 @@
 # Paradigmas de Programação - ELC117-2017a
-Primeiro semestre de 2017
+Primeiro semestre de 2017  
 Professora: [Andrea Schwertner Charão](http://www.inf.ufsm.br/~andrea)  
 Carga horária: 60h  
 Horários: segundas e quartas, das 14:30 às 16:30  
 Sala: 368, CT - Práticas: 334, CT  
 
-## Slides
+## Sobre a disciplina
+ - [Ementa](https://drive.google.com/file/d/0B2aW-kt5pdi7X2ZLbEYxNG1KZVk/view?usp=sharing): informações sobre objetivos, programa, metodologia e bibliografia.
+ - [Plano de ensino](https://docs.google.com/spreadsheets/d/1-HOEpVhdNGLGK17PtGeOvwIbA7EWXGXzDLGZ1x8ojUA/edit?usp=sharing): planejamento de atividades de cada aula.
+ 
+## Avaliações
+
+ - Critérios: A avaliação será baseada na pontuação acumulada indivualmente na realização de atividades, conforme [Guia de Pontuação](http://bit.ly/parapontos). 
+ - Datas para avaliações orais:
+   - Primeiro bimestre:
+   - Segundo bimestre:
+   
 <!--
  - [Introdução à disciplina](slides/slides-introducao-paradigmas-2016a.pdf)
  - Paradigma funcional / Haskell
