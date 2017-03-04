@@ -1,11 +1,12 @@
-# Paradigmas de Programação - ELC117-2016a
-Primeiro semestre de 2016  
+# Paradigmas de Programação - ELC117-2017a
+Primeiro semestre de 2017
 Professora: [Andrea Schwertner Charão](http://www.inf.ufsm.br/~andrea)  
 Carga horária: 60h  
 Horários: segundas e quartas, das 14:30 às 16:30  
 Sala: 368, CT - Práticas: 334, CT  
 
 ## Slides
+<!--
  - [Introdução à disciplina](slides/slides-introducao-paradigmas-2016a.pdf)
  - Paradigma funcional / Haskell
     - [Introdução à programação funcional](slides/slides-programacao-funcional-2016a.pdf)
@@ -26,16 +27,18 @@ Sala: 368, CT - Práticas: 334, CT
     - [Interfaces gráficas e MVC](slides/slides-java-mvc-2016a.pdf)
     - [Programação concorrente em Java](slides/slides-java-threads-2016a.pdf)
     - [Exceções em Java](slides/slides-java-excecoes-2016a.pdf)
-
+-->
 
 ## Práticas
+<!--
  - Haskell: [(1)](praticas/haskell1) [(2)](praticas/haskell2) [(3)](praticas/haskell3) [(4)](praticas/haskell4) 
  - Testes (quizzes) de Haskell com correção automática: [(1)](https://testmoz.com/471285/) [(2)](https://testmoz.com/471302/)
  - Prolog: [(1)](praticas/prolog1) [(2)](praticas/prolog2)
  - Java: [(1)](praticas/java1) [(2)](praticas/java2) [(3)](praticas/java3) [(4)](praticas/java4) [(5)](praticas/java5)
- 
+ -->
 
 ## Trabalhos
+<!--
  - [Lista de Ganhadoras em C](trabalhos/t1) (entrega até quarta, 09/03/2016, 8h)
  - [Programação funcional em Haskell](trabalhos/t2) (entrega até domingo, 20/03/2016, 23:59)
  - [Mais exercícios de programação funcional em Haskell](trabalhos/t3) (entrega até terça, 29/03/2016, 23:59)
@@ -44,3 +47,4 @@ Sala: 368, CT - Práticas: 334, CT
  - [Listas e recursão em Prolog](trabalhos/t6) (entrega até terça, 26/04/2016, 23:59)
  - [Resolvendo problemas da OBI em Prolog](trabalhos/t7) (entrega até quarta, 04/05/2016, 23:59)
  - [Ache a maior bolacha em Java](trabalhos/t8) (entrega até quarta, 01/06/2016, 23:59)
+-->
