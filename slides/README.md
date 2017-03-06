@@ -1,5 +1,3 @@
-[Paradigmas de Programação](https://github.com/AndreaInfUFSM/elc117-2017a) > Slides
-
 Slides
 ------
 
