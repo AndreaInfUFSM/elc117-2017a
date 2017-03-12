@@ -63,7 +63,6 @@ nasceu depois de 1970. Para testar a condição, sua função deverá subtrair a
 >>> idades([20,30,51,57])
 [20, 30]
 ```
-
 5. O código abaixo é escrito em Python imperativo. Escreva um código equivalente usando programação funcional.
 ```python3
 numbers = [1, 2, 3, 4]
