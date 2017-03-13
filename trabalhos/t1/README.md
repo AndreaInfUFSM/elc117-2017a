@@ -48,7 +48,7 @@ Defina uma função auxiliar para ajudar neste exercício.
 
 ## Parte 2
 
-Entregue esta parte num arquivo chamado `t2parte1.py`. Estes exercícios também devem ser entregues em ordem e com o enunciado em forma de comentário. Nesta **Parte 2**, todos os exercícios devem usar **funções anônimas** (lambda).
+Entregue esta parte num arquivo chamado `t1parte2.py`. Estes exercícios também devem ser entregues em ordem e com o enunciado em forma de comentário. Nesta **Parte 2**, todos os exercícios devem usar **funções anônimas** (lambda).
 
 
 1. Escreva uma função que receba uma lista de nomes e retorne uma lista com a string "Sr. " adicionada ao início de cada nome.
