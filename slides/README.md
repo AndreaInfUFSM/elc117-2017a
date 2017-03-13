@@ -8,5 +8,5 @@ Slides
    - [Listas em Python](https://docs.google.com/presentation/d/1RhujRyssNVkQc_W2r-OLAb8sVYSQe8MLTP1580bz4bA/export/pdf)
    - [Funções de alta ordem em Python](https://docs.google.com/presentation/d/1LHcNwX8RyjdoiN4ykJpauCfD2ej0J0X7MAkhKzXXDyM/export/pdf)
    - [Funções anônimas em Python](https://docs.google.com/presentation/d/1LmhKFMm4zNisf8H_I7l8uN-ON04GChCqg9ugzdNvbpQ/export/pdf)
-   
+   - [List comprehension in Python](https://docs.google.com/presentation/d/1YpLSfAzdbNnUamzvGUhSMYcrem68LZyAod5cYwCeF3s/export/pdf)
    
