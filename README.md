@@ -31,6 +31,7 @@ Sala: 368, CT - Práticas: 334, CT
    >>> import funcs
    ```
    Se isso não der certo, leia este tutorial: [Usando Python 3.5 no Windows](http://usandopython.com.br/instalacao-python-3-5-windows/). Veja principalmente a parte sobre o 'IDLE', que é um IDE simples para Python.
+   
  - **Alguns exercícios do T1, pedem para que uma função auxiliar seja definida, mas como eu faço para "chamar" essa função auxiliar na principal?**  
    A função auxiliar deve ser passada como argumento para uma função de alta ordem (p.ex., map, filter, etc.), conforme o exemplo abaixo. Há outros exemplos nos slides sobre funções de alta ordem.
    ```
