@@ -31,7 +31,14 @@ Sala: 368, CT - Práticas: 334, CT
    >>> import funcs
    ```
    Se isso não der certo, leia este tutorial: [Usando Python 3.5 no Windows](http://usandopython.com.br/instalacao-python-3-5-windows/). Veja principalmente a parte sobre o 'IDLE', que é um IDE simples para Python.
-   
+ - **Alguns exercícios do T1, pedem para que uma função auxiliar seja definida, mas como eu faço para "chamar" essa função auxiliar na principal?**  
+   A função auxiliar deve ser passada como argumento para uma função de alta ordem (p.ex., map, filter, etc.), conforme o exemplo abaixo. Há outros exemplos nos slides sobre funções de alta ordem.
+   ```
+   >>> def auxiliar(x):return x+1
+   ... 
+   >>> list(map(auxiliar,[1,2,3]))
+   [2, 3, 4]
+   ```
 <!--
  - [Introdução à disciplina](slides/slides-introducao-paradigmas-2016a.pdf)
  - Paradigma funcional / Haskell
