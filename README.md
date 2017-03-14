@@ -1,5 +1,5 @@
 # Paradigmas de Programação - ELC117-2017a
-[Sobre a disciplina](#sobre-a-disciplina) | [Avaliações](#avaliações) | [Material de apoio](#material-de-apoio)
+[Sobre a disciplina](#sobre-a-disciplina) | [Avaliações](#avaliações) | [FAQ](#faq)
 
 
 Primeiro semestre de 2017  
@@ -22,9 +22,16 @@ Sala: 368, CT - Práticas: 334, CT
    - Segundo bimestre: 19/06/2017 e 21/06/2017
  - Avaliação final (exame): 17/07/2017
 
-## Material de apoio
- - [Usando Python 3.5 no Windows](http://usandopython.com.br/instalacao-python-3-5-windows/)  
-   Teve problemas com Python no Windows? Leia a parte sobre o 'IDLE' neste tutorial. 
+## FAQ
+ - **Estou usando Python no Windows e não consegui importar um programa. Como resolver?**  
+   Provavelmente, você não conseguiu fazer `import funcs` porque o interpretador não encontrou o `funcs.py`. Para resolver isso, use o código abaixo para que o interpretador vá até a pasta do programa (p.ex.: C:\Users\Seunome\Documentos):
+   ```
+   >>> import os
+   >>> os.chdir('C:\\Users\\Seunome\\Documentos')
+   >>> import funcs
+   ```
+   Se isso não der certo, leia este tutorial: [Usando Python 3.5 no Windows](http://usandopython.com.br/instalacao-python-3-5-windows/). Veja principalmente a parte sobre o 'IDLE', que é um IDE simples para Python.
+   
 <!--
  - [Introdução à disciplina](slides/slides-introducao-paradigmas-2016a.pdf)
  - Paradigma funcional / Haskell
