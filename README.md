@@ -1,4 +1,7 @@
 # Paradigmas de Programação - ELC117-2017a
+[Sobre a disciplina](#sobre-a-disciplina) | [Avaliações](#avaliações) | [Material de apoio](#material-de-apoio)
+
+
 Primeiro semestre de 2017  
 Professora: [Andrea Schwertner Charão](http://www.inf.ufsm.br/~andrea)  
 Carga horária: 60h  
@@ -18,7 +21,10 @@ Sala: 368, CT - Práticas: 334, CT
    - Primeiro bimestre: 17/04 e 19/04/2017  
    - Segundo bimestre: 19/06/2017 e 21/06/2017
  - Avaliação final (exame): 17/07/2017
-   
+
+## Material de apoio
+ - [Usando Python 3.5 no Windows](http://usandopython.com.br/instalacao-python-3-5-windows/)  
+   Teve problemas com Python no Windows? Leia a parte sobre o 'IDLE' neste tutorial. 
 <!--
  - [Introdução à disciplina](slides/slides-introducao-paradigmas-2016a.pdf)
  - Paradigma funcional / Haskell
