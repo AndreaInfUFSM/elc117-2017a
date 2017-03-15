@@ -24,6 +24,7 @@ Sala: 368, CT - Práticas: 334, CT
 
 ## FAQ
  - **Estou usando Python no Windows e não consegui importar um programa. Como resolver?**  
+   Veja tutoriais dos colegas [Willian](https://github.com/wdsoares/ParaGames/blob/master/TutorialImportPy), [Mikael](https://github.com/mikael-85/paradigmas/tree/master/extras), [Marcelo](https://github.com/m3nezes/paradigmas/blob/master/TutorialImport.py) e [Cassio](https://github.com/caraujoufsm/Paradigmas_de_Programacao/blob/master/tutorial/tutorial.pdf).  
    Provavelmente, você não conseguiu fazer `import funcs` porque o interpretador não encontrou o `funcs.py`. Para resolver isso, use o código abaixo para que o interpretador vá até a pasta do programa (p.ex.: C:\Users\Seunome\Documentos):
    ```
    >>> import os
