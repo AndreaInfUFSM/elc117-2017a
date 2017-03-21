@@ -108,7 +108,7 @@ Entregue os exercícios desta parte num arquivo chamado `t2parte1.py`. Os exerc�
 3. Baixe o programa [svgcolors.py](svgcolors.py), carregue-o no interpretador e execute `>>> main()`.
 Veja que este código gera uma imagem SVG ([mycolors.svg](mycolors.svg)) que é mais simples que a anterior.
 
-4. Abra o programa [svgcolors.py](svgcolors.py) e observe seu código.
+4. Abra o programa [svgcolors.py](svgcolors.py) e estude seu código.
 
 
 ### Programe
