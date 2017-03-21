@@ -32,7 +32,7 @@ Nos exercícios desta **Parte 1**, você vai definir funções, usar listas e fu
 
 4. Crie uma função que receba uma string e retorne o número de espaços nela contidos.  Defina uma função auxiliar para ajudar neste exercício.
 
-5. Escreva uma função que, dada uma lista de números, calcule 3*n**2 + 2/n + 1 para cada número n da lista. Defina uma função auxiliar para ajudar neste exercício.
+5. Escreva uma função que, dada uma lista de números, calcule `3*n**2 + 2/n + 1` para cada número n da lista. Defina uma função auxiliar para ajudar neste exercício.
 
 6. Escreva uma função que, dada uma lista de números, retorne uma lista com apenas os que forem negativos. Defina uma função auxiliar para ajudar neste exercício.
 
@@ -53,7 +53,7 @@ Entregue esta parte num arquivo chamado `t1parte2.py`. Estes exercícios também
 
 1. Escreva uma função que receba uma lista de nomes e retorne uma lista com a string "Sr. " adicionada ao início de cada nome.
 
-2. Escreva uma função que, dada uma lista de números, calcule 3*n**2 + 2/n + 1 para cada número n da lista.
+2. Escreva uma função que, dada uma lista de números, calcule `3*n**2 + 2/n + 1` para cada número n da lista.
 
 3. Crie uma função que receba uma lista de nomes e retorne outra lista com somente aqueles nomes que terminarem com a letra 'a'.
 
