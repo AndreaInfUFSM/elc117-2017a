@@ -9,4 +9,4 @@ Slides
    - [Funções de alta ordem em Python](https://docs.google.com/presentation/d/1LHcNwX8RyjdoiN4ykJpauCfD2ej0J0X7MAkhKzXXDyM/export/pdf)
    - [Funções anônimas em Python](https://docs.google.com/presentation/d/1LmhKFMm4zNisf8H_I7l8uN-ON04GChCqg9ugzdNvbpQ/export/pdf)
    - [List comprehension in Python](https://docs.google.com/presentation/d/1YpLSfAzdbNnUamzvGUhSMYcrem68LZyAod5cYwCeF3s/export/pdf)
-   
+   - [Exemplo: valida CPF em Python funcional](https://docs.google.com/presentation/d/1oYZFXJyVx1t-hHvqDRG_yaVtvQkTAootUTnNbHigv6M/export/pdf)
