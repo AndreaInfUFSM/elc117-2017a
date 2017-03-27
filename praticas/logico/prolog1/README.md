@@ -37,7 +37,7 @@ Nos exercícios abaixo, considere a seguinte base de fatos e regras sobre pessoa
 
 1. Qual será o resultado das seguintes consultas?
 
-   ```
+   ```prolog
    ?- europeu(andre).
    ?- gaucho(andre).
    ?- brasileiro(X).
@@ -63,35 +63,35 @@ Nos exercícios abaixo, considere a seguinte base de fatos e regras sobre pessoa
    
 4. Crie um predicado `maisVelho(A,B)` que permita deduzir se a pessoa A é mais velha que a pessoa B. Use o predicado idade. Exemplo de uso:
 
-   ```
+   ```prolog
    ?- maisVelho(joao, andre).
    true.
    ```
 
 5. Em Prolog, o operador `is` serve para calcular uma expressão aritmética e atribuir seu valor a uma variável, como nos exemplos abaixo:
 
-   ```
+   ```prolog
    soma(A,B,C) :- C is A + B. 
    pred(A,B,C) :- X is (A+B)^2, C is X*2+1.
    ```
    
    Sabendo disso, verifique qual será o resultado das consultas abaixo:
 
-   ```
+   ```prolog
    ?- soma(8,5,S).
    ?- pred(3,2,X).
    ```
 
 6. Usando o operador `is`, crie um predicado `anoNasc(P,A)` que permita deduzir o ano aproximado de nascimento (A) de uma pessoa (P). Use o predicado idade e o ano corrente como referência. Exemplo de uso: 
 
-   ```
+   ```prolog
    ?- anoNasc(joao, A).
    A = 1985.
    ```
    
 7. Em Prolog, listas são tipos de dados nativos. Como em Python, uma lista se representa com colchetes. Existem também vários predicados pré-definidos que manipulam listas. Teste as consultas abaixo com os `member`, `length` e `nextto`:
 
-   ```
+   ```prolog
    ?- member(a, [a,b,c]).
    ?- member(x, [a,b,c]).
    ?- member(A, [a,b,c]).
@@ -108,7 +108,7 @@ Nos exercícios abaixo, considere a seguinte base de fatos e regras sobre pessoa
 
 8. Usando lista em Prolog, crie um predicado `isVowel(X)` que verifique se um dado símbolo X é uma vogal. Dica: você vai precisar de uma lista de vogais possíveis. Exemplo de uso:
 
-   ```
+   ```prolog
    ?- isVowel(a).
    true.
    ?- isVowel(b).
