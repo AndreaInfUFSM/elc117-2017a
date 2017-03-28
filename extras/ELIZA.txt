@@ -1,0 +1,78 @@
+
+Hello. I am ELIZA. How can I help you?
+> ELIZA, what are your aspirations?
+
+Why do you ask?
+> i am interestd ed in them.
+
+Is it because you are interested in them that you came to me?
+> yes
+
+You seem quite positive.
+> and you seem quite unhelpful.
+
+We were discussing you, not me.
+> who told you that we were taling abo       king about me: ?
+
+Why do you think I that we was talking about you?
+> i dont t h think that, t you just told me you do
+
+Do you not really think that i just told you i do?
+> that sentend ce does not make sense
+
+I am not sure I understand you fully.
+> neither do i
+
+You say neither do you
+> yes
+
+You are sure?
+> yes
+
+I see.
+> do you really: ?
+
+Oh, i really.
+> sure?] 
+
+Please go on.
+> i am tire  d of your lack of considerato ion.
+
+How long have you been tired of my lack of consideration?
+> a few sene tencee s ago.
+
+What does that suggest to you?
+> that you are either unpolite or just rude.
+
+What makes you think I am either unpolite or just rude?
+> yp our acr tions
+
+Why are you concerned over my actions?
+> i am not concerned with them, i am trying to talk to you
+
+Do you believe it normal to be trying to talk to i?
+> of course. dont you lk ike taling to people?
+
+You are not really talking about me, are you?
+> i am
+
+Do you enjoy being?
+> beih ng what: ?
+
+Does that question interest you?
+> answer me
+
+Can you elaborate on that?
+> answer me now
+
+Do you say answer you now for some special reason?
+> because i am  want answers
+
+Is that the real reason?
+> yes
+
+I understand.
+> goodbye ELIZA
+
+Do you feel strongly about discussing such things?
+>quit
