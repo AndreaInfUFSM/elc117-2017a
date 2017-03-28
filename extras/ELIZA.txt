@@ -76,3 +76,11 @@ I understand.
 
 Do you feel strongly about discussing such things?
 >quit
+
+
+
+
+basicamente o código foi escrito com uma serie de perfis de fala em mente. de acordo com as palavras que são digitadas
+outra frase é dada como resposta.
+alguns comentários:
+existem algumas funções que extraem as palavras da string, assumindo que nao comece com espaço. de acordo com o que se digita o programa guarda as informações e printa outras strings. são todas respostas pre-programadas pelo programador. de acordo com a primeira ou primeiras palavras a resposta é montada.
