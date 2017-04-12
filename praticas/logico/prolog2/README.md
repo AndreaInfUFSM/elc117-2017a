@@ -20,24 +20,24 @@ false.
 
 4. Seguindo o exemplo anterior, resolva o problema de lógica descrito em http://rachacuca.com.br/logica/problemas/esquadrilha-de-avioes/. Nesse problema, há uma esquadrilha de 5 aviões em um show aéreo. Cada um deles solta fumaça de uma cor e possui uma anomalia diferente. Além disso, os aviões são comandados por cinco experientes pilotos que praticam um esporte cada um, além de preferirem uma bebida distinta. Sua tarefa é encontrar todas as informações a partir das seguintes dicas:  
 
-    - O avião do Cel. Milton solta fumaça vermelha.
-    - O rádio transmissor do Ten. Walter está com problemas.
-    - O piloto do avião que solta fumaça verde adora pescar.
-    - O Major Rui joga futebol nos finais de semana.
-    - O avião que solta fumaça verde está imediatamente à direita do avião que solta fumaça branca.
-    - O piloto que bebe leite está com o altímetro desregulado.
-    - O piloto do avião que solta fumaça preta bebe cerveja.
-    - O praticante de natação pilota o avião que solta fumaça vermelha.
-    - O Cap. Farfarelli está na ponta esquerda da formação.
-    - O piloto que bebe café voa ao lado do avião que está com pane no sistema hidráulico.
-    - O piloto que bebe cerveja voa ao lado do piloto que enfrenta problemas na bússola.
-    - O homem que pratica equitação gosta de beber chá.
-    - O Cap. Nascimento bebe somente água.
-    - O Cap. Farfarelli voa ao lado do avião que solta fumaça azul.
-    - Na formação, há um avião entre o que tem problema hidráulico e o com pane no altímetro.
-    - Um dos pilotos joga tênis.
-    - Há um avião com problema de temperatura.
-    - Dica final: use o predicado `um_entre` criado em outro exercício.
+    1. O avião do Cel. Milton solta fumaça vermelha.
+    2. O rádio transmissor do Ten. Walter está com problemas.
+    3. O piloto do avião que solta fumaça verde adora pescar.
+    4. O Major Rui joga futebol nos finais de semana.
+    5. O avião que solta fumaça verde está imediatamente à direita do avião que solta fumaça branca.
+    6. O piloto que bebe leite está com o altímetro desregulado.
+    7. O piloto do avião que solta fumaça preta bebe cerveja.
+    8. O praticante de natação pilota o avião que solta fumaça vermelha.
+    9. O Cap. Farfarelli está na ponta esquerda da formação.
+    10. O piloto que bebe café voa ao lado do avião que está com pane no sistema hidráulico.
+    11. O piloto que bebe cerveja voa ao lado do piloto que enfrenta problemas na bússola.
+    12. O homem que pratica equitação gosta de beber chá.
+    13. O Cap. Nascimento bebe somente água.
+    14. O Cap. Farfarelli voa ao lado do avião que solta fumaça azul.
+    15. Na formação, há um avião entre o que tem problema hidráulico e o com pane no altímetro.
+    16. Um dos pilotos joga tênis.
+    17. Há um avião com problema de temperatura.
+    18. Dica final: use o predicado `um_entre` criado em outro exercício.
 
 5. Abaixo encontram-se 2 definições para um predicado que permite verificar se uma lista contém somente números maiores que zero. Você acha que uma das implementações pode ser mais eficiente que a outra? Dica: busque informações sobre o predicado `time` do SWI-Prolog, que permite verificar a quantidade de inferências realizadas numa dada consulta.
 
