@@ -12,6 +12,7 @@ Sala: 368, CT - Práticas: 334, CT
  - [Ementa](https://drive.google.com/file/d/0B2aW-kt5pdi7X2ZLbEYxNG1KZVk/view?usp=sharing): informações sobre objetivos, programa, metodologia e bibliografia.
  - [Plano de ensino](https://docs.google.com/spreadsheets/d/1-HOEpVhdNGLGK17PtGeOvwIbA7EWXGXzDLGZ1x8ojUA/edit?usp=sharing): planejamento de atividades de cada aula.
  - [Que comecem os jogos!](https://bit.ly/paraquest): formulário para responder na primeira semana.
+ - [Entrega de atvidades espontâneas](http://bit.ly/paraextras): formulário para entrega dos extras.
  
  
 ## Avaliações
