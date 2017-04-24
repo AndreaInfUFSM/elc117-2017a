@@ -14,4 +14,6 @@ Slides
    - [Introdução à programação lógica](https://docs.google.com/presentation/d/1r38jcaZLbamiU1VGNj3NfLFp5AjBgg3aKMf7nPbHcY8/export/pdf)
    - [Fatos, regras, consultas e variáveis em Prolog](https://docs.google.com/presentation/d/1DpeJURxTJlarN14J3us6thQjFtQxrguNpJYbz2NajHc/export/pdf)
    - [Listas em Prolog](https://docs.google.com/presentation/d/1IYRDCQcDNgXqdl6Pcg8Z_0jSuQS_d7GtKdZaUUZiKUU/export/pdf)
-
+- Paradigma orientado a objetos
+   - [Introdução à programação orientada a objetos](https://docs.google.com/presentation/d/1Z3BkBWRQQ5Ip4mhihbgVWSZBdTjJuul1lL2Hm8vgwW0/export/pdf)
+   - [Classes em C++](https://docs.google.com/presentation/d/1g-8GQfHEJRUUocDpjrMcR-lP9ab8IQjTTeV9ktmYX00/export/pdf)
