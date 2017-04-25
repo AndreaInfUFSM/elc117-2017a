@@ -10,10 +10,10 @@
 1. Baixe o programa [circle.cpp](circle.cpp) e observe seu código. Você consegue prever a saída deste programa antes de executá-lo? Dica: veja este [tutorial](http://www.cplusplus.com/doc/tutorial/basic_io/) sobre entrada/saída em C++.
 
 2. Compile e execute o programa:
-  ```
-  g++ -o circle circle.cpp
-  ./circle
-  ```
+   ```
+   g++ -o circle circle.cpp
+   ./circle
+   ```
 
 3. Acrescente um método `void setRadius(double radius)` à classe Circle, para alterar o raio de um círculo.
 
@@ -24,10 +24,10 @@
 6. Modifique a função `main` para criar outros objetos da classe Circle, usando o novo construtor.
 
 7. Na função `main`, depois da criação dos objetos, inclua a seguinte linha de código:
-  ```
-  c1.x = 0.5;
-  ```
-  Compile o programa. O que acontece? Porquê?
+   ```
+   c1.x = 0.5;
+   ```
+   Compile o programa. O que acontece? Porquê?
 
 8. Acrescente uma linha ao construtor default para mostrar uma mensagem na saída padrão quando for chamado. Veja na `main` um exemplo de operação de saída (evolução do printf, ou não :-)).
 
