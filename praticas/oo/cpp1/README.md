@@ -32,10 +32,10 @@
 8. Acrescente uma linha ao construtor default para mostrar uma mensagem na saída padrão quando for chamado. Veja na `main` um exemplo de operação de saída (evolução do printf, ou não :-)).
 
 9. Na função `main`, acrescente a declaração de um array de 10 círculos:
-  ```
-  Circle circs[10];
-  ```
-  Compile e execute o programa, observando a nova saída.
+   ```
+   Circle circs[10];
+   ```
+   Compile e execute o programa, observando a nova saída.
 
 
 ## Programação
