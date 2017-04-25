@@ -39,4 +39,4 @@
 
 
 ## Programação
-Para entregar: faça a primeira lista de exercícios de programação OO em C++ ([t4]((../../../trabalhos/t4))).
+Para entregar: faça a primeira lista de exercícios de programação OO em C++ ([t4](../../../trabalhos/t4)).
