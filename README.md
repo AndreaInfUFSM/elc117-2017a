@@ -18,6 +18,7 @@ Sala: 368, CT - Práticas: 334, CT
 ## Avaliações
 
  - [Guia de Pontuação](http://bit.ly/parapontos): a avaliação será baseada na pontuação acumulada indivualmente na realização de atividades.
+ - [Notas](https://docs.google.com/spreadsheets/d/1c2Dv6_AYLC3yVJG8R2ABbfCWq5GxXc3fnVzsj6sQ3ls/edit?usp=sharing)
  - Datas para avaliações orais:  
    - Primeiro bimestre: 17/04 e 19/04/2017  
    - Segundo bimestre: 19/06/2017 e 21/06/2017
