@@ -17,3 +17,6 @@ Slides
 - Paradigma orientado a objetos
    - [Introdução à programação orientada a objetos](https://docs.google.com/presentation/d/1Z3BkBWRQQ5Ip4mhihbgVWSZBdTjJuul1lL2Hm8vgwW0/export/pdf)
    - [Classes em C++](https://docs.google.com/presentation/d/1g-8GQfHEJRUUocDpjrMcR-lP9ab8IQjTTeV9ktmYX00/export/pdf)
+   - [Polimorfismo estático em C++](https://docs.google.com/presentation/d/1aCovKdcxMShhvMo4dBfvVoOs5mS8iYD-sL5XMB5khQE/export/pdf)
+   
+  
