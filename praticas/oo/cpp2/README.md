@@ -5,7 +5,7 @@
 
 
 
-## Usando vector<int>
+## Usando `vector<int>`
 
 1. Baixe o programa [vectorint.cpp](vectorint.cpp), compile-o e execute-o:
    ```
@@ -20,7 +20,7 @@
 4. Use o método `clear` para remover todos os elementos do vetor. Teste o programa novamente.
 
 
-## Usando vector<Person>
+## Usando `vector<Person>`
 
 1. Baixe o programa [vectorperson.cpp](vectorperson.cpp) e compile-o:
    ```
