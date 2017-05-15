@@ -20,3 +20,5 @@ Slides
    - [Polimorfismo estático em C++](https://docs.google.com/presentation/d/1aCovKdcxMShhvMo4dBfvVoOs5mS8iYD-sL5XMB5khQE/export/pdf)
    - [Herança em C++](https://docs.google.com/presentation/d/1jyzsYPIPLnsVyAVQ6twKwVeBY0GUagsfA5EjGAD1j78/export/pdf)
    - [Polimorfismo dinâmico em C++](https://docs.google.com/presentation/d/1AzQQ_Ri7Wvlf0QgHITURi7zIainMlS9LKA9rjntrcgY/export/pdf)
+- Programação concorrente
+   - [Threads em C++](https://docs.google.com/presentation/d/1cRC8vP1YMjm-0m5WBeur3I_HIOMHjlFk9T5_9oIQZAo/export/pdf)
