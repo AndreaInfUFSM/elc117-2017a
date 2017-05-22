@@ -4,7 +4,7 @@
 
 # Aquecimento
 
-Nesta prática, você vai modificar um programa concorrente que tem interface gráfica criada com uma API chamada FLTK. Esta API é recomendada [neste livro](http://stroustrup.com/Programming/) do Bjarne Stroustrup, criador do C++.
+Nesta prática, você vai modificar um programa concorrente que tem interface gráfica criada com uma API chamada [FLTK](http://fltk.org). Esta API é recomendada [neste livro](http://stroustrup.com/Programming/) do Bjarne Stroustrup, criador do C++.
 
 Para compilar o programa desta prática, você vai precisar da FLTK instalada no seu sistema. Nos computadores do NCC, você pode virar root e instalar a FLTK com o comando abaixo (peça senha à professora):
 ```
@@ -38,7 +38,7 @@ Se você estiver no Windows, pode seguir este [tutorial de instalação do FLTK]
    
 5. Quando os controles da thread 2 estiverem funcionando de forma semelhante aos da thread 1, faça mais modificações:
    - Implemente outra versão de `run2()`, alterando a mensagem mostrada na tela e a forma de contagem (por exemplo: contagem de 10 em 10, contagem com um número aleatório, etc.). Altere também o tempo de espera.
-   - Implemente uma lógica que ative e desative os botões, conforme o estado das threads. Por exemplo: quando a thread 1 não estiver executando, ative o botão Start e desative o botão Stop. Quando a thread 1 estiver executando, desative o botão Start e ative o botão Stop. Para isso, use os métodos `activate()` e `deactivate` nos objetos `btnStart1` e `btnStop1`.
+   - Implemente uma lógica que ative e desative os botões, conforme o estado das threads. Por exemplo: quando a thread 1 não estiver executando, ative o botão Start e desative o botão Stop. Quando a thread 1 estiver executando, desative o botão Start e ative o botão Stop. Para isso, use os métodos `activate()` e `deactivate()` nos objetos `btnStart1` e `btnStop1`.
    
    
    
