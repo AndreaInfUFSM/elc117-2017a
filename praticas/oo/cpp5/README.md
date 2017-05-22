@@ -15,9 +15,9 @@ Se você está usando um IDE, certifique-se de que as opções de compilação a
 
 # Programação
 
-1. Baixe o programa [OperacoesBancariasSafe.cpp](OperacoesBancariasSafe.cpp). Este programa implementa um programa em que 2 threads fazem depósitos e retiradas concorrentes em uma conta compartilhada. O programa usa exclusão mútua para garantir consistência dos dados. Compile e execute o programa usando as mesmas opções de compilação do aquecimento.
+1. Baixe o programa [OperacoesBancariasSafe.cpp](OperacoesBancariasSafe.cpp). Neste programa, 2 threads fazem depósitos e retiradas concorrentes em uma conta compartilhada. O programa usa exclusão mútua para garantir consistência dos dados. Compile e execute o programa usando as mesmas opções de compilação do aquecimento.
 
-2. Modifique o programa [OperacoesBancariasSafe.cpp](OperacoesBancariasSafe.cpp), retirando as chamadas `mutex.lock()` e `mutex.unlock()` na classe Conta. Recompile e execute o programa novamente, diversas vezes. Você vê que o programa às vezes produz um resultado incorreto? Se não viu, execute mais vezes: 
+2. Modifique o programa [OperacoesBancariasSafe.cpp](OperacoesBancariasSafe.cpp), retirando as chamadas `mutex.lock()` e `mutex.unlock()` da classe Conta. Recompile e execute o programa novamente, diversas vezes. Você vê que o programa às vezes produz um resultado incorreto? Se isso não acontecer, execute mais vezes: 
    ```
    for i in `seq 50`; do ./OperacoesBancariasSafe; done
    ```

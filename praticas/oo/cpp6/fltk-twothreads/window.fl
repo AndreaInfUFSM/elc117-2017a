@@ -1,0 +1,53 @@
+# data file for the Fltk User Interface Designer (fluid)
+version 1.0303 
+header_name {.h} 
+code_name {.cxx}
+class UserInterface {open
+} {
+  Function {UserInterface()} {open
+  } {
+    Fl_Window w {
+      label {Thread Demo} open selected
+      protected xywh {233 288 510 330} type Double visible
+    } {
+      Fl_Scroll scrollArea1 {open
+        protected xywh {45 37 175 215} type VERTICAL
+      } {
+        Fl_Text_Display textArea1 {
+          protected xywh {45 37 175 215}
+        }
+      }
+      Fl_Button btnStop1 {
+        label Stop
+        protected xywh {150 265 70 20}
+      }
+      Fl_Button btnStart1 {
+        label Start
+        protected xywh {45 265 70 20}
+      }
+      Fl_Scroll scrollArea2 {open
+        protected xywh {280 37 175 215} type VERTICAL
+      } {
+        Fl_Text_Display textArea2 {
+          protected xywh {280 37 175 215}
+        }
+      }
+      Fl_Button btnStop2 {
+        label Stop
+        protected xywh {385 265 70 20}
+      }
+      Fl_Button btnStart2 {
+        label Start
+        protected xywh {280 265 70 20}
+      }
+      Fl_Box {} {
+        label {Thread 1}
+        xywh {65 18 135 23}
+      }
+      Fl_Box {} {
+        label {Thread 2}
+        xywh {300 18 135 23}
+      }
+    }
+  }
+} 
