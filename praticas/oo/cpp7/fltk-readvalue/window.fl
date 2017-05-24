@@ -1,0 +1,23 @@
+# data file for the Fltk User Interface Designer (fluid)
+version 1.0303 
+header_name {.h} 
+code_name {.cxx}
+class UserInterface {open
+} {
+  Function {UserInterface()} {open
+  } {
+    Fl_Window w {
+      label {Read Value} open selected
+      xywh {730 498 295 70} type Double visible
+    } {
+      Fl_Input inputValue {
+        label Value
+        protected xywh {75 23 95 24}
+      }
+      Fl_Button readButton {
+        label Read
+        protected xywh {180 22 65 25}
+      }
+    }
+  }
+} 
