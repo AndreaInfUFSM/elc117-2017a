@@ -36,8 +36,8 @@ Se você estiver no Windows, pode seguir este [tutorial de instalação do FLTK]
    
    
 3. Abra o programa [main.cpp](fltk-addsub/main.cpp), estude seu código e responda:
-   - No construtor `AddSubView`, o ponteiro `this` se refere a qual objeto? Quais os atributos desse objeto?
-   - Quando o usuário clicar no botão `Clear`, qual código é executado?
+   - No construtor `AddSubView()`, o ponteiro `this` se refere a qual objeto? Quais os atributos desse objeto?
+   - O que acontecerá se removermos a linha 13 de `AddSubView()`?
    - O método `cbBtnAddSub` é chamado pela FLTK quando o usuário clicar em `A+B` ou `A-B`. O primeiro argumento é um `Fl_Widget*`, ou seja, um ponteiro para um componente gráfico da FLTK (`Fl_Widget`). Ele pode apontar para qualquer objeto que derive de `Fl_Widget` (herança). De qual classe é o objeto que está sendo recebido como primeiro argumento? 
    
 
