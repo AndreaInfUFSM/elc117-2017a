@@ -21,6 +21,8 @@ Um evento para estudantes recebeu vários brindes de um patrocinador. Deciciu-se
 
 - Para resolver o problema acima, você deverá criar uma solução orientada a objetos com interface gráfica. Você pode escolher a linguagem e o toolkit que preferir, desde que seu código possa ser executado em diferentes plataformas.
 
+ <img src="t7gui.png" width="200px" align="right">
+
 - A interface do seu programa deverá prover acesso às seguintes funcionalidades:
   - Entrada do número de participantes;
   - Botão para sortear um número, sem repetição;
@@ -28,8 +30,7 @@ Um evento para estudantes recebeu vários brindes de um patrocinador. Deciciu-se
   - Exibição de cada número sorteado, com a informação de sequência (1º ganhador, 2º ganhador, etc.);
   - Exibição do logotipo da empresa patrocinadora.
   Ao lado encontra-se um exemplo de interface que oferece tais funcionalidades (logotipo emprestado [desta fonte](http://www.printi.com.br/blog/descubra-diferenca-entre-logo-logotipo-e-logomarca)).
-  
-<img src="t7gui.png" width="145px" align="right">
+ 
 
 
 - Para implementar o sorteio sem repetição, você deverá gerar uma lista de números que deverá ser embaralhada aleatoriamente (procure por funções que fazem `shuffle`). Essa lista será percorrida elemento por elemento a cada vez que o botão `Sortear` for pressionado.
