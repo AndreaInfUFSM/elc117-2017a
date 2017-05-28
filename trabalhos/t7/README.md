@@ -21,8 +21,8 @@ Um evento para estudantes recebeu vários brindes de um patrocinador. Deciciu-se
 
 - Para resolver o problema acima, você deverá criar uma solução orientada a objetos com interface gráfica. Você pode escolher a linguagem e o toolkit que preferir, desde que seu código possa ser executado em diferentes plataformas.
 
- 
-<img src="t7gui.png" width="200px" align="right">
+ <img src="t7gui.png" width="200px" align="right">
+
 - A interface do seu programa deverá prover acesso às seguintes funcionalidades:
   - Entrada do número de participantes;
   - Botão para sortear um número, sem repetição;
