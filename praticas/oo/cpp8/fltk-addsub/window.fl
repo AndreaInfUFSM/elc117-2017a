@@ -1,0 +1,38 @@
+# data file for the Fltk User Interface Designer (fluid)
+version 1.0303 
+header_name {.h} 
+code_name {.cxx}
+class UserInterface {open
+} {
+  Function {UserInterface()} {open
+  } {
+    Fl_Window w {
+      label AddSub open selected
+      protected xywh {513 360 385 305} type Double box EMBOSSED_BOX visible
+    } {
+      Fl_Input inputValue1 {
+        label A
+        protected xywh {59 51 128 41} type Int labelsize 20 align 1
+      }
+      Fl_Button btnSub {
+        label {A-B}
+        protected xywh {197 100 128 40}
+      }
+      Fl_Input inputValue2 {
+        label B
+        protected xywh {197 51 128 41} type Int labelsize 20 align 1
+      }
+      Fl_Box boxResult {
+        protected xywh {60 150 265 67} box DOWN_BOX labelsize 28
+      }
+      Fl_Button btnAdd {
+        label {A+B}
+        protected xywh {59 100 128 41}
+      }
+      Fl_Button btnClear {
+        label Clear
+        protected xywh {60 226 265 40}
+      }
+    }
+  }
+} 

@@ -4,22 +4,27 @@
 
 # Aquecimento
 
-Nesta prática, você vai modificar um programa concorrente que tem interface gráfica criada com uma API chamada [FLTK](http://fltk.org). Esta API é recomendada [neste livro](http://stroustrup.com/Programming/) do Bjarne Stroustrup, criador do C++.
+Nesta prática, você vai continuar usando a [FLTK](http://fltk.org). Esta API é recomendada [neste livro](http://stroustrup.com/Programming/) do Bjarne Stroustrup, criador do C++.
 
-Para compilar o programa desta prática, você vai precisar da FLTK instalada no seu sistema. Nos computadores do NCC, a FLTK já está instalada. Para testar a instalação, execute o editor FLUID em um terminal:
+Para compilar o programa desta prática, você vai precisar da FLTK instalada no seu sistema. Nos computadores do NCC, a FLTK já deverá estar instalada. Para testar a instalação, execute o editor FLUID em um terminal:
 ```
 fluid&
 ```
 
-Se você estiver no Windows, pode seguir este [tutorial de instalação do FLTK](tutorial-windows-fltk.pdf), criado pelo monitor da disciplina.
+Se o comando acima não funcionar, você pode virar root e instalar a FLTK com o comando abaixo (peça senha à professora):
+```
+apt install libfltk1.3-dev
+```
+
+Se você estiver no Windows, pode seguir este [tutorial de instalação do FLTK](../cpp6/tutorial-windows-fltk.pdf), criado pelo monitor da disciplina.
 
 
 
 # Programação
 
-1. Baixe o programa [fltk-readvalue.tar.gz](fltk-readvalue.tar.gz). Descompacte o programa e compile-o:
+1. Baixe o programa [fltk-readvalue.zip](fltk-readvalue.zip). Descompacte o programa e compile-o:
    ```
-   tar xzvf fltk-readvalue.tar.gz
+   unzip fltk-readvalue.zip
    cd fltk-readvalue
    sh compile.sh
    ```
