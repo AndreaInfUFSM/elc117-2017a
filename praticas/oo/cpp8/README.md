@@ -45,7 +45,7 @@ Se você estiver no Windows, pode seguir este [tutorial de instalação do FLTK]
 
 # Programação
 
-Para entregar: faça este trabalho de programação OO com GUI ([t7](../../../trabalhos/t7)../)).
+Para entregar: faça este trabalho de programação OO com GUI ([t7](../../../trabalhos/t7)).
 
 
 
