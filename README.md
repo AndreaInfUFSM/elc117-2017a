@@ -19,7 +19,7 @@ Sala: 368, CT - Práticas: 334, CT
 
  - [Guia de Pontuação](http://bit.ly/parapontos): a avaliação será baseada na pontuação acumulada individualmente na realização de atividades.
  - [Notas](https://docs.google.com/spreadsheets/d/1c2Dv6_AYLC3yVJG8R2ABbfCWq5GxXc3fnVzsj6sQ3ls/edit?usp=sharing)
- - Testes rápidos sobre POO/C++ com auto-correção: [(1)](http://testmoz.com/1275953) [(2)](testmoz.com/1275973) [(3)](testmoz.com/1275979)
+ - Testes rápidos sobre POO/C++ com auto-correção: [(1)](http://testmoz.com/1275953) [(2)](http://testmoz.com/1275973) [(3)](http://testmoz.com/1275979)
  - Datas para avaliações orais:  
    - Primeiro bimestre: 17/04 e 19/04/2017  
    - Segundo bimestre: 19/06/2017 e 21/06/2017
