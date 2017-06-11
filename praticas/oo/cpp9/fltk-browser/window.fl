@@ -1,0 +1,46 @@
+# data file for the Fltk User Interface Designer (fluid)
+version 1.0303 
+header_name {.h} 
+code_name {.cxx}
+class UserInterface {open
+} {
+  Function {UserInterface()} {open
+  } {
+    Fl_Window w {
+      label {Simple CRUD} open
+      protected xywh {89 260 520 490} type Double visible
+    } {
+      Fl_Input inputName {
+        label Name
+        protected xywh {80 48 360 24}
+      }
+      Fl_Input inputType {
+        label Type
+        protected xywh {80 73 360 24}
+      }
+      Fl_Button btnClear {
+        label Clear
+        protected xywh {24 122 100 25}
+      }
+      Fl_Button btnUpdate {
+        label Update
+        protected xywh {147 122 100 25}
+      }
+      Fl_Button btnDelete {
+        label Delete
+        protected xywh {270 122 100 25}
+      }
+      Fl_Button btnInsert {
+        label Insert
+        protected xywh {394 122 100 25}
+      }
+      Fl_Box {} {
+        label {Simple CRUD}
+        xywh {132 16 255 16} labelfont 1 labelsize 22
+      }
+      Fl_Browser browser {selected
+        protected xywh {24 169 470 277} type Hold
+      }
+    }
+  }
+} 
