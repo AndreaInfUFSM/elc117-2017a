@@ -8,3 +8,4 @@
  5. [Containers e algoritmos em C++](t5) (entrega até domingo, 07/05/2017, 23:59)
  6. [Comemoração do Dia das Mães em C++](t6) (entrega até domingo, 21/05/2017, 23:59)
  7. [Sorteio de brindes para participantes de evento](t7) (entrega até domingo, 04/06/2017, 23:59)
+ 8. [Gerador em C++ de Aplicação Web/Mobile em HTML5/Javascript](t8) (entrega até domingo, 02/06/2017, 23:59)
