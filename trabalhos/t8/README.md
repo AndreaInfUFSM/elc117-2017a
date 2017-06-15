@@ -21,7 +21,7 @@ Domingo, 2 de julho, 23:59.
 
 Tecnologias como HTML5, CSS e Javascript deram origem a vários frameworks para aplicações Web que executam do lado do cliente, isto é, no navegador, sem necessitar de comunicação com um servidor. Essas aplicações podem armazenar dados e se adaptar a diferentes dispositivos, servindo de base para aplicativos móveis. Exemplos comuns de uso destas tecnologias são formulários para inserção, alteração e remoção de dados que podem ser listados em forma de tabela. O código HTML/Javascript desse tipo de aplicação é bastante semelhante, quaisquer que sejam os tipos ou quantidades de dados da tabela. Assim, um único template (modelo) pode ser reaproveitado para gerar diferentes aplicações. Além disso, é possível gerar automaticamente as partes de código que mudam de uma aplicação para outra.
 
-Neste trabalho, você vai desenvolver um gerador de aplicações Web simples que, a partir de um template e de configurações do usuário, gera o código index.html para a aplicação Web desejada. Uma explicação ilustrada deste trabalho está disponível nestes (slides)[https://docs.google.com/presentation/d/1teu5US1i0y7EVxi9bnK-oben0RqlUGdVEFcChdhK3b8/edit?usp=sharing] vistos em aula.
+Neste trabalho, você vai desenvolver um gerador de aplicações Web simples que, a partir de um template e de configurações do usuário, gera o código index.html para a aplicação Web desejada. Uma explicação ilustrada deste trabalho está disponível nestes [slides](https://docs.google.com/presentation/d/1teu5US1i0y7EVxi9bnK-oben0RqlUGdVEFcChdhK3b8/edit?usp=sharing) vistos em aula.
 
 ## Requisitos
 
