@@ -23,7 +23,7 @@ Sala: 368, CT - Práticas: 334, CT
  - Datas para avaliações orais:  
    - Primeiro bimestre: 17/04 e 19/04/2017  
    - Segundo bimestre: 19/06/2017 e 21/06/2017
- - Avaliação final (exame): 17/07/2017
+ - Avaliação final (exame): **17/07/2017** (escrita, sala 368)
 
 ## FAQ
  - **Estou usando Python no Windows e não consegui importar um programa. Como resolver?**  
